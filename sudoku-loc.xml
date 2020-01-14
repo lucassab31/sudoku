@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 14" line=" 11" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\resolutions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 6" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\resolutions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 11" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\Coordonnee.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 49" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\grillesudoku.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 15" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\Ensemble.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 106" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\grillesudoku.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 11" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\resolutions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 49" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\grillesudoku.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 106" >
+      <vfs_project />
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\grillesudoku.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 76" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\resolutions.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 7" line=" 42" >
+      <vfs_project>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\sudoku.gpr</vfs_project>
+      <vfs_file>C:\Users\luqui\Desktop\Programmation\GIT\sudoku\resolutions.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
